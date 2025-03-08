@@ -21,3 +21,6 @@ scout-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# My own ignores
+/_build/
