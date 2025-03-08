@@ -1,26 +1,26 @@
 # The directory Mix will write compiled artifacts to.
-/_build/
+scout/_build/
 
 # If you run "mix test --cover", coverage assets end up here.
-/cover/
+scout/cover/
 
 # The directory Mix downloads your dependencies sources to.
-/deps/
+scout/deps/
 
 # Where third-party dependencies like ExDoc output generated docs.
-/doc/
+scout/doc/
 
 # If the VM crashes, it generates a dump, let's ignore it too.
-erl_crash.dump
+scout/erl_crash.dump
 
 # Also ignore archive artifacts (built via "mix archive.build").
-*.ez
+scout/*.ez
 
 # Ignore package tarball (built via "mix hex.build").
-scout-*.tar
+scout/scout-*.tar
 
 # Temporary files, for example, from tests.
-/tmp/
+scout/tmp/
 
 # My own ignores
-/_build/
+scout/_build/
